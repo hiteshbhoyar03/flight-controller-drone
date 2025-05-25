@@ -1,0 +1,10 @@
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_tim.h:1523:22:LL_TIM_EnableCounter	1
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_usart.h:3024:26:LL_USART_IsActiveFlag_TXE_TXFNF	2
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_usart.h:3479:22:LL_USART_EnableIT_RXNE_RXFNE	2
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_usart.h:4275:22:LL_USART_TransmitData8	1
+../Core/Src/main.c:56:5:_write	3
+../Core/Src/main.c:124:5:main	20
+../Core/Src/main.c:653:6:SystemClock_Config	4
+../Core/Src/main.c:716:6:PeriphCommonClock_Config	2
+../Core/Src/main.c:751:6:MPU_Config	1
+../Core/Src/main.c:782:6:Error_Handler	1

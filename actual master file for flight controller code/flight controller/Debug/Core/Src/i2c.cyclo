@@ -1,0 +1,12 @@
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_i2c.h:644:22:LL_I2C_EnableClockStretching	1
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_i2c.h:764:22:LL_I2C_DisableGeneralCall	1
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_i2c.h:875:22:LL_I2C_SetOwnAddress2	1
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_i2c.h:897:22:LL_I2C_DisableOwnAddress2	1
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_i2c.h:1879:22:LL_I2C_EnableAutoEndMode	1
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_bus.h:1384:22:LL_AHB4_GRP1_EnableClock	1
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_bus.h:1862:22:LL_APB1_GRP1_EnableClock	1
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_bus.h:2814:22:LL_APB4_GRP1_EnableClock	1
+../Core/Src/i2c.c:28:6:MX_I2C1_Init	2
+../Core/Src/i2c.c:90:6:MX_I2C2_Init	2
+../Core/Src/i2c.c:152:6:MX_I2C3_Init	2
+../Core/Src/i2c.c:214:6:MX_I2C4_Init	2
