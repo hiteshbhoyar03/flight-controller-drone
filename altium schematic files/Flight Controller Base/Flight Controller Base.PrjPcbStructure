@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=S1_Connectors.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=S1_Connectors.SchDoc|FileName=S2_Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=S1_Connectors.SchDoc|FileName=S3_PowSwitch.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=S1_Connectors.SchDoc|FileName=S4_Pwm_Ports.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=S1_Connectors.SchDoc|FileName=S5_Gps_Telem_Ports.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=S1_Connectors.SchDoc|FileName=S6_Can_SPI_Uart_Ports.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=S1_Connectors.SchDoc|FileName=S6_Debug_Safety_Port.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=S1_Connectors.SchDoc|FileName=S7_CRSF_IBUS_SBUS_DSM_Ports.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=S1_Connectors.SchDoc|FileName=S7_Ethernet.SchDoc|SheetNumber=7
